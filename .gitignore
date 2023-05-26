@@ -1,0 +1,6 @@
+*.env
+
+.vscode
+*.sqlite3
+
+celerybeat-schedule
